@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+.col-4 {
+    height: 500px;
+    border: 1px solid red;
+    margin-right: 50px;
+}
+
+.col-4 form {
+    text-align: left;
+}
+
+
+.col-7 {
+    height: 500px;
+    border: 1px solid red;
+}
